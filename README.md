@@ -8,3 +8,6 @@
 Для реализации приложения применялась следующая СУБД - Microsoft SQL ServerManagement Studio 2019
 
 Разработаны запросы на языке Transact-SQL для создания всех таблиц базы данных, и заполнения данными и взаимосвязями.
+
+![image](https://user-images.githubusercontent.com/40003490/121081985-1a257500-c7e6-11eb-92c8-c4f8eacf39dc.png)
+![image](https://user-images.githubusercontent.com/40003490/121082178-64a6f180-c7e6-11eb-975c-6ed30c12820b.png)
