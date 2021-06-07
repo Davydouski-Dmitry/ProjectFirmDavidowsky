@@ -1,4 +1,4 @@
-# ProjectFirmDavidowsky разработанное приложение базы данных на T-SQL
+# ProjectFirmDavidowsky разработанное приложение базы данных на языке Transact-SQL (T-SQL)
 
 Концептуальная модель данных, логическая модель данных и физическая модель данных первоначально разработаны ERwin Data Modeler (CASE средство)
 ![image](https://user-images.githubusercontent.com/40003490/121080716-74253b00-c7e4-11eb-84f1-108f47ee055b.png)
