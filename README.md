@@ -42,4 +42,7 @@
 11. Разработать запрос на языке SQL с подзапросом с многострочным оператором сравнения.
 
 
+![image](https://user-images.githubusercontent.com/40003490/121083089-ab491b80-c7e7-11eb-8d24-42e27f065948.png)
+![image](https://user-images.githubusercontent.com/40003490/121083134-b8660a80-c7e7-11eb-8c7c-db1040d56a0f.png)
+![image](https://user-images.githubusercontent.com/40003490/121083221-d3387f00-c7e7-11eb-90c0-39a57f79304a.png)
 
